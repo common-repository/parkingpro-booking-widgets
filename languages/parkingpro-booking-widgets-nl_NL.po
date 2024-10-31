@@ -1,0 +1,692 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ParkingPro Booking Widgets\n"
+"POT-Creation-Date: 2024-09-25 17:06+0200\n"
+"PO-Revision-Date: 2024-09-25 17:06+0200\n"
+"Last-Translator: Mark Jongkind <mark@backscreen.nl>\n"
+"Language-Team: Mark Jongkind <mark@backscreen.nl>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: parkingpro-booking-widgets.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:25
+msgid "MyParkingPro address (URL)"
+msgstr "MyParkingPro adres (URL)"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:29
+msgid "Enter the URL of your MyParkingPro address"
+msgstr "Voer de URL van uw MyParkingPro adres in"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:35
+#: includes/class-parkingpro-booking-widgets-widget.php:126
+msgid "Booking page address (URL)"
+msgstr "Adres van de boekingspagina (URL)"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:39
+#: includes/class-parkingpro-booking-widgets-widget.php:128
+msgid "Link to MyParkingPro page"
+msgstr "Link naar MyParkingPro pagina"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:49
+msgid ""
+"Select the booking page. Use the shortcode [pp_booking_iframe] to display "
+"the MyParkingPro iFrame on your booking page"
+msgstr ""
+"Selecteer de boekingspagina. Gebruik de shortcode [pp_booking_iframe] om het "
+"MyParkingPro iFrame weer te geven op uw boekingspagina"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:55
+#: includes/class-parkingpro-booking-widgets-widget.php:141
+msgid "Product selection page address (URL)"
+msgstr "Adres van de product selectie pagina (URL)"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:59
+#: includes/class-parkingpro-booking-widgets-widget.php:143
+msgid "Link to product selection page"
+msgstr "Link naar de product selectie pagina"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:69
+msgid ""
+"Select the product selection page. Use the shortcode [pp_product_selection] "
+"to display the product selection table on your page"
+msgstr ""
+"Selecteer de product selectie pagina. Gebruik de shortcode "
+"[pp_product_selection] om de product selectie tabel weer te geven in de "
+"pagina"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:75
+#: includes/class-parkingpro-booking-widgets-widget.php:156
+msgid "Thank you page address (URL)"
+msgstr "Adres van de bedanktpagina (URL)"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:79
+#: includes/class-parkingpro-booking-widgets-widget.php:158
+msgid "Link to thank you page"
+msgstr "Link naar bedanktpagina"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:89
+msgid ""
+"Select the thank you page. Use the shortcode [pp_thank_you] to display the "
+"custom thank you page"
+msgstr ""
+"Selecteer de bedanktpagina. Gebruik de shortcode [pp_thank_you] om de "
+"bedanktpagina te genereren"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:94
+#: includes/class-parkingpro-booking-widgets-widget.php:171
+msgid "Widget destination"
+msgstr "Widget bestemming"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:98
+#: includes/class-parkingpro-booking-widgets-widget.php:173
+msgid "Booking page"
+msgstr "Boekingspagina"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:99
+#: includes/class-parkingpro-booking-widgets-widget.php:174
+msgid "Product selection page"
+msgstr "Product selectie pagina"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:106
+#: includes/class-parkingpro-booking-widgets-widget.php:179
+msgid "iFrame destination"
+msgstr "iFrame bestemming"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:110
+#: includes/class-parkingpro-booking-widgets-widget.php:181
+msgid "iFrame"
+msgstr "iFrame"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:111
+#: includes/class-parkingpro-booking-widgets-widget.php:182
+msgid "Custom thank you page"
+msgstr "Aangepaste bedanktpagina"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:119
+#: includes/class-parkingpro-booking-widgets-widget.php:236
+msgid "Default widget size"
+msgstr "Standaard widget afmeting"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:123
+#: includes/class-parkingpro-booking-widgets-widget.php:238
+msgid "Large"
+msgstr "Groot"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:124
+#: includes/class-parkingpro-booking-widgets-widget.php:239
+msgid "Medium"
+msgstr "Medium"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:125
+#: includes/class-parkingpro-booking-widgets-widget.php:240
+msgid "Small"
+msgstr "Klein"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:126
+#: includes/class-parkingpro-booking-widgets-widget.php:241
+msgid "Row"
+msgstr "Rij"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:129
+msgid "Enter the default size (width) of the widget"
+msgstr "Voer de standaard afmeting (breedte) van de widget in"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:135
+msgid "Hide time inputs in widget"
+msgstr "Verberg tijd velden in de widget"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:139
+msgid "No, show times"
+msgstr "Nee, tijden tonen"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:140
+msgid "Yes, hide times"
+msgstr "Ja, tijden verbergen"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:143
+msgid "Show or hide time inputs in the widget"
+msgstr "Toon of verberg tijd velden in de widget"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:149
+#: includes/class-parkingpro-booking-widgets-widget.php:270
+msgid "iFrame language"
+msgstr "iFrame taal"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:153
+msgid "Enter the language context for the MyParkingPro iFrame"
+msgstr "De taal van het MyParkingPro iFrame"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:158
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:163
+#: includes/class-parkingpro-booking-widgets-widget.php:246
+#: includes/class-parkingpro-booking-widgets-widget.php:249
+msgid "Display airport dropdown"
+msgstr "Toon luchthaven dropdown"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:162
+#: includes/class-parkingpro-booking-widgets-widget.php:248
+msgid "Hide airport dropdown"
+msgstr "Verberg luchthaven dropdown"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:170
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:175
+#: includes/class-parkingpro-booking-widgets-widget.php:254
+#: includes/class-parkingpro-booking-widgets-widget.php:257
+msgid "Display car dropdown"
+msgstr "Toon auto dropdown"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:174
+#: includes/class-parkingpro-booking-widgets-widget.php:256
+msgid "Hide car dropdown"
+msgstr "Verberg auto dropdown"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:183
+msgid "Google Analytics ID"
+msgstr "Google Analytics ID"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:187
+msgid ""
+"Enter the Google Analytics ID and add tracking to the MyParkingPro iFrame"
+msgstr "Vul de Google Analytics ID in en track het MyParkingPro iFrame"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:193
+msgid "Google Analytics cookie"
+msgstr "Google Analytics cookie"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:197
+msgid "Ignore Google Analytics cookie"
+msgstr "Negeer Google Analytics cookie"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:198
+msgid "Append Google Analytics cookie to iFrames"
+msgstr "Google Analytics cookie toevoegen aan iFrames"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:200
+msgid "Append Google Analytics cookie (_ga) to the iFrame"
+msgstr "Voeg de Google Analytics cookie (_ga) toe aan het iFrame"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:205
+#: includes/class-parkingpro-booking-widgets-widget.php:262
+msgid "Remember widget data"
+msgstr "Onthoud widget data"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:209
+#: includes/class-parkingpro-booking-widgets-widget.php:264
+msgid "No, don't remember widget data"
+msgstr "Nee, geen widget velden onthouden"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:210
+#: includes/class-parkingpro-booking-widgets-widget.php:265
+msgid "Yes, remember widget fields"
+msgstr "Ja, onthoud widget velden"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:213
+msgid ""
+"When a user enters data in the widget (dates, times), it's possible to "
+"rembember and reuse the data in the widget after reloading the page."
+msgstr ""
+"Wanneer een gebruiker data invoert in de widget (datums, tijden, etc), is "
+"het mogelijk om deze informatie te onthouden en hergebruiken in de widget na "
+"het herladen van de pagina."
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:219
+msgid "Header element selector(s)"
+msgstr "Header element selector(s)"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:223
+msgid ""
+"Enter one or more header element jQuery selectors to correct the scroll "
+"positions in the MyParkingPro iFrame"
+msgstr ""
+"Vul een of meerdere header element jQuery selectors in om de scroll posities "
+"te corrigeren in het MyParkingPro iFrame"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:236
+#: includes/class-parkingpro-booking-widgets-widget.php:121
+msgid "Default widget title"
+msgstr "Standaard widget titel"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:240
+msgid "Enter the default title for the widget"
+msgstr "Voer de standaard titel voor de widget in"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:245
+#: includes/class-parkingpro-booking-widgets-widget.php:320
+msgid "Header background color"
+msgstr "Header achtergrondkleur"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:250
+msgid "The background color of the top part of the widget"
+msgstr "De achtergrondkleur van het bovenste deel van de widget"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:255
+#: includes/class-parkingpro-booking-widgets-widget.php:325
+msgid "Header text color"
+msgstr "Tekstkleur header"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:260
+msgid "The text color of the widget title in the top part"
+msgstr "De tekstkleur van de widget titel in het bovenste deel"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:265
+#: includes/class-parkingpro-booking-widgets-widget.php:360
+msgid "Border color"
+msgstr "Randkleur"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:270
+msgid "Color of all the borders"
+msgstr "Kleur van alle randen"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:276
+msgid "Titles and labels"
+msgstr "Titels en labels"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:283
+#: includes/class-parkingpro-booking-widgets-widget.php:285
+msgid "Section airport title"
+msgstr "Titel van sectie luchthaven"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:287
+msgid "Title for the airport section"
+msgstr "Titel van sectie luchthaven"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:293
+#: includes/class-parkingpro-booking-widgets-widget.php:290
+msgid "Section dates title"
+msgstr "Titel van sectie datums"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:297
+msgid "Title for the dates section"
+msgstr "Titel voor de sectie datums"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:303
+#: includes/class-parkingpro-booking-widgets-widget.php:295
+msgid "Label parking date"
+msgstr "Label parkeer datum"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:307
+msgid "Label for the parking date"
+msgstr "Label voor de parkeer datum"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:313
+#: includes/class-parkingpro-booking-widgets-widget.php:300
+msgid "Label return date"
+msgstr "Label retourdatum"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:317
+msgid "Label for the return date"
+msgstr "Label voor de retourdatum"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:322
+#: includes/class-parkingpro-booking-widgets-widget.php:187
+#: includes/class-parkingpro-booking-widgets-widget.php:365
+msgid "Display services"
+msgstr "Services weergeven"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:326
+#: includes/class-parkingpro-booking-widgets-widget.php:189
+msgid "Yes, display services"
+msgstr "Ja, toon services"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:327
+#: includes/class-parkingpro-booking-widgets-widget.php:190
+msgid "No, hide services"
+msgstr "Nee, services verbergen"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:339
+#: includes/class-parkingpro-booking-widgets-widget.php:195
+msgid "Services to display"
+msgstr "Weer te geven services"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:357
+#: includes/class-parkingpro-booking-widgets-widget.php:220
+msgid "Error: there are no services available to display"
+msgstr "Fout: er zijn geen services beschikbaar om te tonen"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:366
+#: includes/class-parkingpro-booking-widgets-widget.php:228
+msgid "Services in iFrame"
+msgstr "Services in iFrame"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:370
+#: includes/class-parkingpro-booking-widgets-widget.php:230
+msgid "User can change services in the iFrame"
+msgstr "Gebruiker kan services wijzigen in het iFrame"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:371
+#: includes/class-parkingpro-booking-widgets-widget.php:231
+msgid "Use the service from widget and hide services in the iFrame"
+msgstr "Gebruik de service uit de widget en verberg de services in het iFrame"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:374
+msgid ""
+"Show all services in the MyParkingPro iFrame (the user can change the "
+"services in the iFrame) or load the iFrame with a pre-selected service and "
+"hide the service selection in the iFrame."
+msgstr ""
+"Toon alle services in het MyParkingPro iFrame (de gebruiker kan de service "
+"wijzigen in het iFrame) of laad het iFrame met een geselecteerde service en "
+"verberg de service selectie in het iFrame."
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:380
+#: includes/class-parkingpro-booking-widgets-widget.php:305
+msgid "Section services title"
+msgstr "Titel van sectie Services"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:384
+msgid "Title for the services section"
+msgstr "Titel voor de sectie Services"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:390
+#: includes/class-parkingpro-booking-widgets-widget.php:310
+msgid "Section car title"
+msgstr "Titel van sectie auto’s"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:394
+msgid "Title for the car section"
+msgstr "Titel voor de sectie auto’s"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:399
+#: includes/class-parkingpro-booking-widgets-widget.php:330
+msgid "Section title color"
+msgstr "Sectie titelkleur"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:404
+msgid "Text color for the section title"
+msgstr "Tekstkleur voor de sectie titel"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:409
+#: includes/class-parkingpro-booking-widgets-widget.php:335
+msgid "Label text color"
+msgstr "Label tekstkleur"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:414
+msgid "Text color for the labels"
+msgstr "Tekstkleur voor de labels"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:420
+msgid "Button"
+msgstr "Knop"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:427
+#: includes/class-parkingpro-booking-widgets-widget.php:315
+msgid "Button text"
+msgstr "Knop tekst"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:431
+msgid "The button text"
+msgstr "De knoptekst"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:436
+#: includes/class-parkingpro-booking-widgets-widget.php:340
+#: includes/class-parkingpro-booking-widgets-widget.php:350
+msgid "Button background color"
+msgstr "Achtergrondkleur knop"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:441
+msgid "Background color for the button"
+msgstr "Achtergrondkleur voor de knop"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:446
+#: includes/class-parkingpro-booking-widgets-widget.php:345
+#: includes/class-parkingpro-booking-widgets-widget.php:355
+msgid "Button text color"
+msgstr "Tekstkleur knop"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:451
+msgid "Color for the button text"
+msgstr "Kleur voor de knoptekst"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:456
+msgid "Button hover background color"
+msgstr "Achtergrondkleur knop hover"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:461
+msgid "Background color for the button hover"
+msgstr "Achtergrondkleur voor de knop tijdens mouse-over"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:466
+msgid "Button hover text color"
+msgstr "Tekstkleur knop hover"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:471
+msgid "Color for the button hover text"
+msgstr "Kleur voor de knoptekst tijdens mouse-over"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:477
+msgid "Affiliate tracking"
+msgstr "Affiliate tracking"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:483
+msgid "Affiliate tracker"
+msgstr "Affiliate tracker"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:487
+#: includes/class-parkingpro-booking-widgets-widget.php:367
+msgid "No, don't use affiliate tracking"
+msgstr "Nee, gebruik geen affiliate tracking"
+
+#: admin/partials/parkingpro-booking-widgets-admin-display.php:497
+msgid "Save Changes"
+msgstr "Wijzigingen opslaan"
+
+#: includes/class-parkingpro-booking-widgets-widget.php:275
+msgid "Header element selector"
+msgstr "Header element selector"
+
+#: includes/class-parkingpro-booking-widgets-widget.php:280
+msgid "Partner ID"
+msgstr "Partner ID"
+
+#: includes/class-parkingpro-booking-widgets.php:290
+msgid "Welcome"
+msgstr "Welkom"
+
+#: includes/class-parkingpro-booking-widgets.php:356
+msgid "Parking and return date"
+msgstr "Parkeer- en retourdatum"
+
+#: includes/class-parkingpro-booking-widgets.php:362
+msgid "Services"
+msgstr "Services"
+
+#: includes/class-parkingpro-booking-widgets.php:368
+#: public/partials/parkingpro-booking-widgets-public-product-selection-display.php:214
+msgid "Book now"
+msgstr "Boek nu"
+
+#: includes/class-parkingpro-booking-widgets.php:374
+msgid "Parking date and time"
+msgstr "Parkeer datum en tijd"
+
+#: includes/class-parkingpro-booking-widgets.php:380
+msgid "Return date and time"
+msgstr "Datum en tijd van terugkeer"
+
+#: includes/class-parkingpro-booking-widgets.php:404
+#: public/partials/parkingpro-booking-widgets-public-thank-you-display.php:99
+msgid "Cars"
+msgstr "Auto’s"
+
+#: includes/class-parkingpro-booking-widgets.php:416
+msgid "Airport"
+msgstr "Luchthaven"
+
+#: public/class-parkingpro-booking-widgets-public.php:870
+#: public/class-parkingpro-booking-widgets-public.php:905
+#: public/class-parkingpro-booking-widgets-public.php:914
+#: public/class-parkingpro-booking-widgets-public.php:930
+#: public/class-parkingpro-booking-widgets-public.php:932
+#: public/class-parkingpro-booking-widgets-public.php:936
+#: public/class-parkingpro-booking-widgets-public.php:937
+#: public/class-parkingpro-booking-widgets-public.php:938
+msgid "Other"
+msgstr "Overig"
+
+#: public/class-parkingpro-booking-widgets-public.php:891
+msgid "Netherlands"
+msgstr "Nederland"
+
+#: public/class-parkingpro-booking-widgets-public.php:893
+msgid "Germany"
+msgstr "Duitsland"
+
+#: public/class-parkingpro-booking-widgets-public.php:895
+msgid "Belgium"
+msgstr "België"
+
+#: public/class-parkingpro-booking-widgets-public.php:897
+msgid "Sweden"
+msgstr "Zweden"
+
+#: public/class-parkingpro-booking-widgets-public.php:899
+msgid "United Kingdom"
+msgstr "Verenigd Koninkrijk"
+
+#: public/class-parkingpro-booking-widgets-public.php:901
+msgid "Spain"
+msgstr "Spanje"
+
+#: public/class-parkingpro-booking-widgets-public.php:903
+msgid "France"
+msgstr "Frankrijk"
+
+#: public/partials/parkingpro-booking-widgets-public-display.php:170
+msgid "Select airport"
+msgstr "Selecteer luchthaven"
+
+#: public/partials/parkingpro-booking-widgets-public-display.php:204
+#: public/partials/parkingpro-booking-widgets-public-display.php:218
+msgid "dd-mm-yyyy"
+msgstr "dd-mm-jjjj"
+
+#: public/partials/parkingpro-booking-widgets-public-display.php:284
+msgid "car"
+msgstr "auto"
+
+#: public/partials/parkingpro-booking-widgets-public-display.php:286
+#: public/partials/parkingpro-booking-widgets-public-product-selection-display.php:72
+msgid "cars"
+msgstr "auto’s"
+
+#: public/partials/parkingpro-booking-widgets-public-product-selection-display.php:52
+#: public/partials/parkingpro-booking-widgets-public-product-selection-display.php:252
+msgid "Your options for the period you have selected"
+msgstr "Je opties voor de geselecteerde periode"
+
+#: public/partials/parkingpro-booking-widgets-public-product-selection-display.php:67
+#: public/partials/parkingpro-booking-widgets-public-product-selection-display.php:205
+msgid "days"
+msgstr "dagen"
+
+#: public/partials/parkingpro-booking-widgets-public-product-selection-display.php:83
+msgid "Filter search results"
+msgstr "Filter zoekresultaten"
+
+#: public/partials/parkingpro-booking-widgets-public-product-selection-display.php:95
+msgid "Sort by"
+msgstr "Sorteer op"
+
+#: public/partials/parkingpro-booking-widgets-public-product-selection-display.php:97
+msgid "Price"
+msgstr "Prijs"
+
+#: public/partials/parkingpro-booking-widgets-public-product-selection-display.php:98
+msgid "Name"
+msgstr "Naam"
+
+#: public/partials/parkingpro-booking-widgets-public-product-selection-display.php:189
+#: public/partials/parkingpro-booking-widgets-public-product-selection-display.php:191
+msgid "More info"
+msgstr "Meer info"
+
+#: public/partials/parkingpro-booking-widgets-public-product-selection-display.php:200
+msgid "min"
+msgstr "min"
+
+#: public/partials/parkingpro-booking-widgets-public-product-selection-display.php:211
+msgid "Per car"
+msgstr "Per auto"
+
+#: public/partials/parkingpro-booking-widgets-public-product-selection-display.php:218
+msgid "Not available"
+msgstr "Niet beschikbaar"
+
+#: public/partials/parkingpro-booking-widgets-public-product-selection-display.php:228
+msgid "Close window"
+msgstr "Sluit scherm"
+
+#: public/partials/parkingpro-booking-widgets-public-product-selection-display.php:254
+msgid "No services found"
+msgstr "Geen services gevonden"
+
+#: public/partials/parkingpro-booking-widgets-public-thank-you-display.php:65
+msgid "Your booking has been completed"
+msgstr "Je reservering is afgerond"
+
+#: public/partials/parkingpro-booking-widgets-public-thank-you-display.php:66
+msgid ""
+"You will receive the booking confirmation by e-mail. Print the confirmation "
+"and take it with you on a trip."
+msgstr ""
+"Je ontvangt de reserveringsbevestiging per e-mail. Print deze uit en neem "
+"het mee op reis."
+
+#: public/partials/parkingpro-booking-widgets-public-thank-you-display.php:72
+msgid "Your booking"
+msgstr "Je reservering"
+
+#: public/partials/parkingpro-booking-widgets-public-thank-you-display.php:76
+msgid "Service"
+msgstr "Services"
+
+#: public/partials/parkingpro-booking-widgets-public-thank-you-display.php:80
+msgid "Parking date"
+msgstr "Parkeer datum"
+
+#: public/partials/parkingpro-booking-widgets-public-thank-you-display.php:89
+msgid "Return date"
+msgstr "Retourdatum"
+
+#: public/partials/parkingpro-booking-widgets-public-thank-you-display.php:108
+msgid "Total amount"
+msgstr "Totaalbedrag"
+
+#. Plugin Name of the plugin/theme
+msgid "ParkingPro Booking Widgets"
+msgstr "ParkingPro Booking Widgets"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.parkingpro.nl"
+msgstr "https://www.parkingpro.nl"
+
+#. Description of the plugin/theme
+msgid ""
+"ParkingPro Booking Widgets plugin: easily add a booking widget or shortcode "
+"to your website."
+msgstr ""
+"ParkingPro Booking Widgets plugin: voeg eenvoudig een boeking widget of "
+"shortcode toe aan uw website."
+
+#. Author of the plugin/theme
+msgid "ParkingPro"
+msgstr "ParkingPro"
+
+#. Author URI of the plugin/theme
+msgid "https://www.parkingpro.nl/"
+msgstr "https://www.parkingpro.nl/"
+
+#~ msgid "Select"
+#~ msgstr "Selecteer"
